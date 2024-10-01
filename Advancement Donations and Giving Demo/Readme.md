@@ -23,7 +23,7 @@ I’m excited to share a snapshot of the incredible impact our donors have made 
 💼 Total Gift Record by Gift Allocation: Scholarships, campus resources, 
   and endowments are just a few areas where these gifts are making a tangible difference.
 
-This project was made possible through a fantastic collaboration with Belal Tamer. 
+This project was made possible through a fantastic collaboration with Mohamed Tamer. 
   A huge thank you to all our donors and supporters. Together, 
   we are driving forward the mission of education and making an impact that will be felt for generations to come!
   </pre>
