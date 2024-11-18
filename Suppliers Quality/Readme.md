@@ -4,7 +4,7 @@
 
 🔍 Suppliers Quality Dashboard: Storytelling with Data to Drive Supplier Performance 📊
 
-I'm excited to share the final project of my internship at DEPI — the "Suppliers Quality Dashboard", which I worked on with Belal Hegab. 
+I'm excited to share the final project of my internship at DEPI — the "Suppliers Quality Dashboard", which I worked on with Mohamed Hegab. 
 This dashboard not only visualizes vendor performance but also tells a compelling story about how we can improve supplier relationships and reduce defects.
 
 📈 Key Features:
